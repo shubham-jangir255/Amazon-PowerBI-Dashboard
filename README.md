@@ -68,12 +68,3 @@ This helps users gauge pricing strategy and discount aggressiveness across categ
 - **Customer Sentiment Tracking:** Marketers can plan campaigns based on rating trends, review volume, and price sensitivity.
 - **Competitive Analysis:** Analysts can benchmark category performance by comparing pricing and discount patterns across the catalog.
 
-## 7. Screenshots / Demos
-
-Show what the dashboard looks like.
-
-Example:
-
-
-🔗 **Live Dashboard:** [Add your Power BI published link here]
-📂 **Project Files:** [Add your repo file links here]
